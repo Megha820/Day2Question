@@ -1,0 +1,7 @@
+C:\Users\Deepesh\trainingwork_web\GitLearn\Day2Ques\PrimeSol\Prime\bin\Debug\Prime.exe.config
+C:\Users\Deepesh\trainingwork_web\GitLearn\Day2Ques\PrimeSol\Prime\bin\Debug\Prime.exe
+C:\Users\Deepesh\trainingwork_web\GitLearn\Day2Ques\PrimeSol\Prime\bin\Debug\Prime.pdb
+C:\Users\Deepesh\trainingwork_web\GitLearn\Day2Ques\PrimeSol\Prime\obj\Debug\Prime.csprojAssemblyReference.cache
+C:\Users\Deepesh\trainingwork_web\GitLearn\Day2Ques\PrimeSol\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\Deepesh\trainingwork_web\GitLearn\Day2Ques\PrimeSol\Prime\obj\Debug\Prime.exe
+C:\Users\Deepesh\trainingwork_web\GitLearn\Day2Ques\PrimeSol\Prime\obj\Debug\Prime.pdb

@@ -1,0 +1,6 @@
+Sample input:
+min 5 max 11
+
+
+Sample Output"
+5,7,11
